@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# VS Code
+*.json
+.vscode
+
+# Directories
+build
+lib
+bin
+module
